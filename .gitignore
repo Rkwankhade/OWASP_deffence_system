@@ -1,0 +1,7 @@
+*.db
+*.log
+__pycache__/
+*.pyc
+
+# Exclude sensitive directories
+/root/owasp_security/
